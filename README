@@ -1,0 +1,33 @@
+********************************************************************************
+*                                                                              *
+*                                Athena-Builder                                *
+*                     http://github.com/Kanma/Athena-Builder                   *
+*                                                                              *
+********************************************************************************
+
+
+---------------------------------------
+- Summary
+---------------------------------------
+
+Helper script to setup and build a specific configuration of the Athena Game
+Framework during development.
+
+It's up to you to clone the appropriate GIT repositories in the dependencies/
+folder and switch to the desired branches in order to setup the Athena Game
+Framework the way you want it.
+
+
+---------------------------------------
+- License
+---------------------------------------
+
+Athena-Builder can be used any way you want, without licensing.
+
+ATHENA-BUILDER IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+ATHENA-BUILDER.
